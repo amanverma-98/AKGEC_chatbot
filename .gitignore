@@ -1,4 +1,4 @@
-.venv/
+AKGEC-env/
 .streamlit/
 test/
 .env

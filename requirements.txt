@@ -8,3 +8,4 @@ slowapi
 instructor
 crawl4ai
 ipykernel
+streamlit
